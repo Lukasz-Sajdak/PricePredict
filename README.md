@@ -32,7 +32,7 @@ The dataset used for training includes real estate data for Bangalore. It contai
 ## Inspiration
 
 This project is based on the tutorial by **Codebasics**:
-> [Real Estate Price Prediction](www.youtube.com/watch?v=rdfbcdP75KI&list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg&index=1)
+> [Real Estate Price Prediction](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg)
 
 ## Status
 
